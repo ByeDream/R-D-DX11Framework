@@ -1,2 +1,4 @@
-# R-D-DX11Framework
-A self-training project to build a DX11 based framework
+# StarWay
+An engine of learning DX11
+
+This project is a tiny DX11 engine for learning.
